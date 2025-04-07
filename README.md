@@ -13,3 +13,7 @@ It collects user information and dynamically displays the submitted data.
 - User input validation  
 - Displays submitted data dynamically  
 - Prevents default form submission behavior   
+## How to Run
+1. Clone this repository.
+2. Open `index.html` in your browser.
+3. Complete the form and see the dynamic output.
